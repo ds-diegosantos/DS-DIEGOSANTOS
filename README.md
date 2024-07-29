@@ -32,7 +32,7 @@
   <img align="center" alt="Diego-React" height="60" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Diego-HTML" hheight="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diego-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Diego-CSS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="Diego-Bootstrap" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
 </div>
 
 ### Cloud
@@ -55,7 +55,7 @@
 ### Studying in this moment:
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Csharp" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
-  <img align="center" alt="Diego-Csharp" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg">
+  <img align="center" alt="Diego-Angular" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg">
 </div>
 
 ##
